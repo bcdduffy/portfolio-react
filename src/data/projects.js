@@ -14,20 +14,20 @@ const projects = [
 
     {
         id: 1,
-        title: 'Cheers Application',
-        date: 'April 28, 2022',
-        category: 'MySQL, Express, React.js, Node.js',
-        description: 'Developed a web application that allows different users to sign up, log in, share & explore a plethora of different cocktails recipes (21 years or older, of course!). Worked with a partner and mainly led the front-end dev.',
+        title: 'Personal Locator Beacon',
+        date: 'May, 2023',
+        category: 'Python, C/C++, ArcGIS, AWS, ReactJS, Ubuntu',
+        description: 'With a team designed an end to end personal locator beacon service. Included multiple battery powered, portable beacons designed to collect beacon data, form LoRa packets, and transmit by RF to a receiver. The receiver on a Raspberry Pi with Ubuntu would demodulate and parse packets to display user location, data, and history, through an ARCGIS application on AWS.',
         image: image7,
-        link: 'https://github.com/320james/Cheers',
+        link: 'https://github.com/bcdduffy/MDE-PLB',
         buttonName: 'Github Repository'
     },
     {
         id: 1,
-        title: 'Wildlife Disease Website',
-        date: 'Dec 8, 2021',
-        category: 'MongoDB, Express, React.js, Node.js',
-        description: 'Developed a responsive and minimalistic webstite for the Laboratory of Disease Ecology & Biogeography at Virginia Tech utilizing the MERN Stack approach. Led a team of four in front-end dev.',
+        title: 'Micronet Weather Network',
+        date: 'Feb, 2017',
+        category: 'C/C++, MongoDB, ExpressJS, NodeJS, Google Maps API',
+        description: 'Designed a Micronet, a dense system of self powered, communicating, weather stations that interface by Bluetooth with a server to display weather data. Consisted of fourteen weather nodes displaying climate data through a Google Maps API to generate a 2D visualization of local weather in a web interface using a MERN tech stack.',
         image: image6,
         link: '',
         buttonName: 'Private'

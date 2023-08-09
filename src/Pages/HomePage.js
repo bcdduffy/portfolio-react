@@ -24,15 +24,15 @@ function HomePage() {
                 <Particles />
             </div>
             <div className="typography">
-                <h1>Hi, I'm <span>James Kim</span></h1>
+                <h1>Hi, I'm <span>Brenden</span></h1>
                 <h5>
-                    I am a Software Engineer...!
+                    I am a Software Engineer
                 </h5>
                 <p>{quote}</p>
                 <p>- Kanye West</p>
                 <div className="icons">
-                    <a href="https://www.linkedin.com/in/knowjameskim/" className="icon i-linkedin"><LinkedInIcon /></a>
-                    <a href="https://github.com/320james" className="icon i-github"><GithubIcon /></a>
+                    <a href="https://www.linkedin.com/in/bcdduffy/" className="icon i-linkedin"><LinkedInIcon /></a>
+                    <a href="https://github.com/bcdduffy" className="icon i-github"><GithubIcon /></a>
                 </div>
             </div>
         </HomePageStyled>

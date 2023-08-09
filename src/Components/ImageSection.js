@@ -10,30 +10,28 @@ function ImageSection() {
                 <img src={about} alt="" />
             </div>
             <div className="right-content">
-                <h4>I am... <span>James!</span></h4>
+                <h4>I'm <span>Brenden</span></h4>
                 <p className="paragraph">
-                    I was born in Seoul, South Korea and began my life here in the United States at nine years old. I received my Bachelor's degree in Computer Science at Virginia Tech and I am currently a junior-level software engineer. I'm passionate about weight-lifting, fishing, camping, and exploring about what the world has to offer! It's nice to see you here :)
+                    I'm a newgrad Computer Engineer from Virginia Tech. I'm a self starter with a broad skillset as an Electrical Engineer, a Software Engineer, and a Data Engineer from the work I've done both professionally in a work environment, and personally. I can learn whatever you need me to learn to do whatever you need me to do, just tell me when and where!
                 </p>
 
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name:</p>
                         <p>Date of Birth:</p>
-                        <p>Nationality:</p>
                         <p>Languages:</p>
                         <p>Education:</p>
                         <p>Location:</p>
                     </div>
                     <div className="info">
-                        <p>Geun Hyoung Kim</p>
-                        <p>03.20.1999</p>
-                        <p>Korean-American</p>
-                        <p>English, Korean</p>
-                        <p>C.S @ Virginia Tech</p>
-                        <p>Charlottesville, VA</p>
+                        <p>Brenden Duffy</p>
+                        <p>01.21.2000</p>
+                        <p>English</p>
+                        <p>CPE @ Virginia Tech</p>
+                        <p>Fairfax, VA</p>
                     </div>
                 </div>
-                <a href="https://drive.google.com/file/d/1hYJA6wKsFDncF1RMFhw_Nyjw-MeRnrdC/view?usp=sharing">View Resume</a>
+                <a href="https://drive.google.com/file/d/1qtpXARCFwnfml7sH7YtvsfZM8Jx0Xefr/view?usp=sharing">View Resume</a>
             </div>
         </ImageSectionStyled>
     );

@@ -33,8 +33,8 @@ function Navigation() {
             </ul>
 
             <div className="icons">
-                <a href="https://www.linkedin.com/in/knowjameskim/" className="icon i-linkedin"><LinkedInIcon /></a>
-                <a href="https://github.com/320james" className="icon i-github"><GithubIcon /></a>
+                <a href="https://www.linkedin.com/in/bcdduffy/" className="icon i-linkedin"><LinkedInIcon /></a>
+                <a href="https://github.com/bcdduffy" className="icon i-github"><GithubIcon /></a>
             </div>
 
             {/* <footer className="footer">

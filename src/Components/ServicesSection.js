@@ -17,15 +17,15 @@ function ServicesSection() {
                         {<ServiceCard
                             image={software}
                             title={'Software Development'}
-                            paragraph={'Agile, cohesive teamwork, algorithms, data structures, OOP, efficiency & optimization, REST API'} />}
+                            paragraph={'Writing desktop applications in - C/C++, Java, Python, Golang, and C# and the .NET Tech Stack. Working with SDLC and DevOps software'} />}
                         {<ServiceCard
                             image={web}
                             title={'Web Development'}
-                            paragraph={'Full-stack dev, UI/UX, React.js, Node.js, Express, JavaScript, HTML, CSS'} />}
+                            paragraph={'Full stack developer. UI/UX Design with Figma and Adobe. Front End Development with HTML/CSS/JS and frameworks like React, Angular and Vue. Backend Development with Django, Springboot, and ExpressJS'} />}
                         {<ServiceCard
                             image={mobile}
-                            title={'Mobile Development'}
-                            paragraph={'iOS Mobile Software Development with SwiftUI and XCode'} />}
+                            title={'Database Development'}
+                            paragraph={'Data analytics with Python, Rlang, and MATLAB. ETL, and SAP data migration. Relational database design with mySQL, PostgreSQL, Oracle, and MiscrosoftSQL. Non-relational database design with MongoDB and Redis'} />}
                     </div>
                 </ServicesSectionStyled>
             </InnerLayout>

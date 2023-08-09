@@ -22,7 +22,7 @@ function ContactPage() {
                         <div className="contact-title">
                             <h4>Get In Touch</h4>
                         </div>
-                        <form className="form" action="https://formspree.io/f/mknkrqpq" method="POST" id="my-form">
+                        <form className="form" action="https://formspree.io/f/xwkdllbl" method="POST" id="my-form">
                             <div className="form-field">
                                 <label htmlFor="name">Name</label>
                                 <input type="text" id="name" name="name" />
@@ -50,9 +50,9 @@ function ContactPage() {
                     </div>
 
                     <div className="right-content">
-                        <ContactItem title={'Phone'} icon={phone} cont1={'703-678-6883'} />
-                        <ContactItem title={'Email'} icon={email} cont1={'320james@gmail.com'} />
-                        <ContactItem title={'Location'} icon={location} cont1={'Charlottesville, VA'} />
+                        <ContactItem title={'Phone'} icon={phone} cont1={'703-832-5032'} />
+                        <ContactItem title={'Email'} icon={email} cont1={'bcdduffygmail.com'} />
+                        <ContactItem title={'Location'} icon={location} cont1={'Faifax, VA'} />
 
                     </div>
                 </InnerLayout>
