@@ -32,6 +32,26 @@ const projects = [
         link: '',
         buttonName: 'Private'
     },
+    {
+        id: 1,
+        title: 'Python FTP Client Application',
+        date: 'May, 2023',
+        category: 'Python, Sklearn, PyQt',
+        description: 'Client ftp python script allowing users to pull and put on ftp servers through a command line interface.',
+        image: image5,
+        link: 'https://github.com/bcdduffy/python-ftp-client',
+        buttonName: 'Github Repository'
+    },
+    {
+        id: 1,
+        title: 'Astro Defenders',
+        date: 'Jan, 2022',
+        category: 'C/C++, MongoDB, ExpressJS, NodeJS, Google Maps API',
+        description: 'Client ftp python script allowing users to pull and put on ftp servers through a command line interface.',
+        image: image5,
+        link: 'https://github.com/bcdduffy/python-ftp-client',
+        buttonName: 'Github Repository'
+    },
 
 
 
