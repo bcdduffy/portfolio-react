@@ -26,7 +26,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Brenden</span></h1>
                 <h5>
-                    I am a Software Engineer
+                    I'm a Software Engineer
                 </h5>
                 <p>{quote}</p>
                 <p>- Kanye West</p>
