@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.5d06f7d2.chunk.js",
-    "main.js.map": "/static/js/main.5d06f7d2.chunk.js.map",
+    "main.js": "/static/js/main.8fdcaedc.chunk.js",
+    "main.js.map": "/static/js/main.8fdcaedc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
     "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
     "static/js/2.e8f4410d.chunk.js": "/static/js/2.e8f4410d.chunk.js",
@@ -9,7 +9,7 @@
     "index.html": "/index.html",
     "static/js/2.e8f4410d.chunk.js.LICENSE.txt": "/static/js/2.e8f4410d.chunk.js.LICENSE.txt",
     "static/media/MIPS_img.6cf220f7.png": "/static/media/MIPS_img.6cf220f7.png",
-    "static/media/about_me_pic.b3986c7c.jpg": "/static/media/about_me_pic.b3986c7c.jpg",
+    "static/media/about_me_pic.18cedd76.jpg": "/static/media/about_me_pic.18cedd76.jpg",
     "static/media/cheers.95ead7a2.jpg": "/static/media/cheers.95ead7a2.jpg",
     "static/media/covid.a4416501.jpg": "/static/media/covid.a4416501.jpg",
     "static/media/covidTravel_img.866308f3.jpg": "/static/media/covidTravel_img.866308f3.jpg",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.11f320ca.js",
     "static/js/2.e8f4410d.chunk.js",
-    "static/js/main.5d06f7d2.chunk.js"
+    "static/js/main.8fdcaedc.chunk.js"
   ]
 }
