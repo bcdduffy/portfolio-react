@@ -12,42 +12,42 @@ function Skills() {
             <InnerLayout>
                 <div className="skills">
                     <ProgressBar
-                        title={'Java'}
+                        title={'HTML5/CSS3/JS'}
+                        width={'80%'}
+                        text={'80%'}
+                    />
+                    <ProgressBar
+                        title={'Java/SpringBoot'}
+                        width={'75%'}
+                        text={'75%'}
+                    />
+                    <ProgressBar
+                        title={'ReactJS/AngularJS'}
                         width={'50%'}
                         text={'50%'}
                     />
                     <ProgressBar
-                        title={'C'}
-                        width={'45%'}
-                        text={'45%'}
+                        title={'C/C++'}
+                        width={'70%'}
+                        text={'70%'}
                     />
                     <ProgressBar
-                        title={'ReactJS'}
-                        width={'35%'}
-                        text={'35%'}
-                    />
-                    <ProgressBar
-                        title={'Swift'}
-                        width={'30%'}
-                        text={'30%'}
-                    />
-                    <ProgressBar
-                        title={'HTML5/CSS3'}
+                        title={'Python/Django'}
                         width={'60%'}
                         text={'60%'}
                     />
                     <ProgressBar
-                        title={'MySQL'}
-                        width={'35%'}
-                        text={'35%'}
+                        title={'MySQL/PostgreSQL'}
+                        width={'60%'}
+                        text={'60%'}
                     />
                     <ProgressBar
-                        title={'JavaScript'}
-                        width={'35%'}
-                        text={'35%'}
+                        title={'.Net/C#'}
+                        width={'40%'}
+                        text={'40%'}
                     />
                     <ProgressBar
-                        title={'Git'}
+                        title={'Git/GitLab/Github'}
                         width={'85%'}
                         text={'85%'}
                     />
