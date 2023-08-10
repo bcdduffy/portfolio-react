@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.f1a9a146.chunk.js",
-    "main.js.map": "/static/js/main.f1a9a146.chunk.js.map",
+    "main.js": "/static/js/main.77783f8e.chunk.js",
+    "main.js.map": "/static/js/main.77783f8e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
     "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
     "static/js/2.e8f4410d.chunk.js": "/static/js/2.e8f4410d.chunk.js",
@@ -11,7 +11,7 @@
     "static/media/MIPS_img.6cf220f7.png": "/static/media/MIPS_img.6cf220f7.png",
     "static/media/about_me_pic.18cedd76.jpg": "/static/media/about_me_pic.18cedd76.jpg",
     "static/media/cheers.95ead7a2.jpg": "/static/media/cheers.95ead7a2.jpg",
-    "static/media/covid.a4416501.jpg": "/static/media/covid.a4416501.jpg",
+    "static/media/covid.45660241.jpg": "/static/media/covid.45660241.jpg",
     "static/media/covidTravel_img.866308f3.jpg": "/static/media/covidTravel_img.866308f3.jpg",
     "static/media/first_website_img.3f08aa28.png": "/static/media/first_website_img.3f08aa28.png",
     "static/media/food.2ec5a8e5.svg": "/static/media/food.2ec5a8e5.svg",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.11f320ca.js",
     "static/js/2.e8f4410d.chunk.js",
-    "static/js/main.f1a9a146.chunk.js"
+    "static/js/main.77783f8e.chunk.js"
   ]
 }
