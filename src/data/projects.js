@@ -46,10 +46,10 @@ const projects = [
         id: 1,
         title: 'Astro Defenders',
         date: 'Jan, 2022',
-        category: 'C/C++, MongoDB, ExpressJS, NodeJS, Google Maps API',
-        description: 'Client ftp python script allowing users to pull and put on ftp servers through a command line interface.',
-        image: image5,
-        link: 'https://github.com/bcdduffy/python-ftp-client',
+        category: 'C/C++, MSP432 Launchpad, MSP432 Driver Library Design',
+        description: 'Astro Defender game designed to run on a MSP432 Launchpad with Booster Pack LCD Display. Added libraries to the MSP432 Launchpad drivers to use timers, buttons, adn displays',
+        image: image4,
+        link: 'https://github.com/bcdduffy/astros-MSP432-launchpad',
         buttonName: 'Github Repository'
     },
 

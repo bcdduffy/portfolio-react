@@ -18,14 +18,12 @@ function ImageSection() {
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name:</p>
-                        <p>Date of Birth:</p>
                         <p>Languages:</p>
                         <p>Education:</p>
                         <p>Location:</p>
                     </div>
                     <div className="info">
                         <p>Brenden Duffy</p>
-                        <p>01.21.2000</p>
                         <p>English</p>
                         <p>CPE @ Virginia Tech</p>
                         <p>Fairfax, VA</p>
