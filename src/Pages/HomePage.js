@@ -28,8 +28,6 @@ function HomePage() {
                 <h5>
                     I'm a Software Engineer
                 </h5>
-                <p>{quote}</p>
-                <p>- Kanye West</p>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/bcdduffy/" className="icon i-linkedin"><LinkedInIcon /></a>
                     <a href="https://github.com/bcdduffy" className="icon i-github"><GithubIcon /></a>
