@@ -38,7 +38,7 @@ function Navigation() {
             </div>
 
             {/* <footer className="footer">
-                <p>@James_Kim</p>
+                <p>@Brenden_Duffy</p>
             </footer> */}
         </NavigationStyled >
     );

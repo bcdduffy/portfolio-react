@@ -9,7 +9,7 @@ const blogs = [
         month: 'September',
         year: '2020',
         image: blog1,
-        link: 'https://medium.com/@thejameskim/how-foreigners-taste-american-food-f1b1e11a111c'
+        link: 'https://bcdduffy.dev/'
     },
     {
         id: 2,
